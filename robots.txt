@@ -1,0 +1,1 @@
+Sitemap: https://blackdiamondx.github.io/jekyll-theme-mehdix-rtl/sitemap.xml
